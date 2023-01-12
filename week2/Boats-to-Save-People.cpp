@@ -19,6 +19,7 @@ public:
             }
            
         }if(i==j)count++;
+        
         return count;
     }
 };
